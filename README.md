@@ -20,17 +20,19 @@
   a Software Engineering student & Golang developer 
   <br>
   <br>
+  <br>
   🎓 I'm currently studying for a bachelor's degree in Urmia University Computer Engineering Department
   <br>
   🎓 I graduated from Andisheh Borna High School
+  <br>
   <br>
   💻 Honestly, Im a computer geek. I love everything about computer science. Algorithms, Datastructures, Automata Theroy, Programming Languages, ...
   <br>
   💻 Im trying to deeply understand computer science concepts and upgrade my coding skills. I can code in multiple languages like Go, C, Java, PHP, C#, JS, ...
   <br>
+  <br>
   📚 I’m currently learning backend development, network programming, software architecture using Golang.
   <br>
-  💬 Get in touch with me from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
   <br>
   📫 Email: <a href="mailto: mehdiadq@gmail.com">mehdiadq@gmail.com</a>
 </p>
