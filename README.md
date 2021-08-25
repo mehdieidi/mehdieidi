@@ -1,9 +1,12 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MehdiEidi.MehdiEidi">
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
+<h1 align="center" style="green">
+  Hello, Friend
+  
+<!--   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?color=14F728&size=30&center=true&vCenter=true&lines=Hello%2C+Friend!;Im+Mehdi">
   </a>
+ -->
 </h1>
 
 <h5 align="center">
