@@ -13,8 +13,8 @@
   <code>
     <a href="https://www.linkedin.com/in/mehdieidi/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://quera.ir/profile/MehdiEidi" title="Quera Profile"><img width="22" src="https://static.quera.ir/images/logo/logo.0-37f748b73943.svg"> Quera</a></code>
-  <code><a href="https://stackoverflow.com/users/12284950/mehdi-eidi" title="Stack Overflow Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://www.instagram.com/mehdieidi.pv/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
+<!--    <code><a href="https://stackoverflow.com/users/12284950/mehdi-eidi" title="Stack Overflow Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/stackoverflow.svg"> Stack Overflow</a></code> -->
 </h5>
 <br>
 <p >
@@ -29,7 +29,7 @@
   🎓 I graduated from Andisheh Borna High School
   <br>
   <br>
-  💻 Honestly, Im a computer geek. I love everything about computer science. Algorithms, Datastructures, Automata Theroy, Programming Languages, ...
+  💻 Im a computer geek. I love everything about computer science. Algorithms, Data Structures, Automata Theroy, Programming Languages, Distributed Systems, ...
   <br>
   💻 Im trying to deeply understand computer science concepts and upgrade my coding skills. I can code in multiple languages like Go, C, Java, PHP, C#, JS, ...
   <br>
