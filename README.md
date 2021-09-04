@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MehdiEidi.MehdiEidi">
 
 <h1 align="center" style="green">
-  Hello, Friend!
+  Hello Friend, I'm Mehdi
   
 <!--   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?color=14F728&size=30&center=true&vCenter=true&lines=Hello%2C+Friend!;Im+Mehdi">
@@ -18,20 +18,18 @@
 </h5>
 <br>
 <p >
-  I'm Mehdi Eidi,
-  <br>
-  a Software Engineering student & Golang developer 
+  I'm a Software Engineering student & Golang developer 
   <br>
   <br>
   <br>
-  🎓 I'm currently studying for a bachelor's degree in Urmia University Computer Engineering Department
+  🎓 Currently studying for a bachelor's degree in Urmia University Computer Engineering Department
   <br>
   🎓 I graduated from Andisheh Borna High School
   <br>
   <br>
   💻 Im a computer science geek. I love everything about computer science. Algorithms, Data Structures, Automata Theroy, Programming Languages, Distributed Systems, ...
   <br>
-  💻 Im trying to deeply understand computer science concepts and upgrade my coding skills. I can code in multiple languages like Go, C, Java, PHP, C#, JS, ...
+  💻 Trying to deeply understand computer science concepts and upgrade my coding skills. I can code in multiple languages like Go, C, Java, PHP, C#, JS, ...
   <br>
   <br>
   📚 I’m currently learning backend development, network programming, software architecture using Golang.
