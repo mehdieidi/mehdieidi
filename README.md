@@ -42,7 +42,7 @@
 <h2 align="center">🔥 Skills & Languages & Frameworks & Tools I have worked with 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="Golang" height="25" src="https://github.com/MehdiEidi/MehdiEidi/blob/main/Go2.png"></code>
+  <code><img title="Golang" height="25" src="https://github.com/MehdiEidi/MehdiEidi/blob/main/golang-icon.png"></code>
   <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
   <code><img title="C" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></code>
   <code><img title="C#" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cSharp.svg"></code>
