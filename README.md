@@ -65,8 +65,8 @@
 
 <!-- <h2 align="center">Stats</h2> -->
 <br>
-<p align=center>
-  <script
+
+<script
   src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js"></script>
 
 <!-- Optionally, include the theme (if you don't want to struggle to write the CSS) -->
@@ -85,8 +85,9 @@
     // or enable responsive functionality
     GitHubCalendar(".calendar", "MehdiEidi", { responsive: true });
 </script>
-  
-  
+
+<br>
+<p align=center>
    <img src="https://activity-graph.herokuapp.com/graph?username=MehdiEidi&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
   
   <div align=center>
