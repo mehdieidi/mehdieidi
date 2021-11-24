@@ -1,90 +1,48 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MehdiEidi.MehdiEidi">
-
-<h1 align="center" style="green">
-  Hello Mate, I'm Mehdi
-  
-<!--   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=14F728&size=30&center=true&vCenter=true&lines=Hello%2C+Friend!;Im+Mehdi">
-  </a>
- -->
-</h1>
-
-<h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/mehdieidi/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/mehdieidi.pv/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
-<!--   <code><a href="https://quera.ir/profile/MehdiEidi" title="Quera Profile"><img width="22" src="https://static.quera.ir/images/logo/logo.0-37f748b73943.svg"> Quera</a></code> -->
-  
-<!--    <code><a href="https://stackoverflow.com/users/12284950/mehdi-eidi" title="Stack Overflow Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/stackoverflow.svg"> Stack Overflow</a></code> -->
-</h5>
-<br>
-<p >
-  I'm a Software Engineering student & Golang Developer 
-  <br>
-  <br>
-  <br>
-  🎓 Currently studying for a bachelor's degree in Urmia University Computer Engineering Department
-  <br>
-  🎓 I graduated from Andisheh Borna High School & Iran Language Institute
-  <br>
-  <br>
-  💻 Im a computer science geek. Everything about computer science interests me. Algorithms, Data Structures, Automata Theroy, Programming Languages, Distributed Systems, Linux, Systems Programming, ...
-  <br>
-  💻 Trying to deeply understand computer science concepts and upgrade my coding and engineering skills. I can code in multiple languages like Go, C, Java, PHP, C#, JS, ...
-  <br>
-  <br>
-  📚 I’m currently learning system programming, network programming, backend development, software architecture using Go.
-  <br>
-  <br>
-  📫 Get in touch: <a href="mailto: mehdiadq@gmail.com">mehdiadq@gmail.com</a>
+<p>
+   <img width=325 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiEidi&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true&exclude_repo=museum-management-system&hide=Batchfile,html,css" />
+  <p>
+    Tech Stack:<br>
+    <img src="https://img.shields.io/badge/-Go-1C78C0?style=flat-square&logo=Go&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
+<!--     <img src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/> -->
+<!--     <img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white"/> -->
+<!--     <img src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white"/> -->
+<!--     <img src="https://img.shields.io/badge/-Sketch-FA6400?style=flat-square&logo=Sketch&logoColor=white"/> -->
+    <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&logoColor=white"/>
+<!--     <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/><br/> -->
+<!--     <img src="https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=Vue.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Laravel-F55247?style=flat-square&logo=Laravel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Lumen-E74430?style=flat-square&logo=Lumen&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-WebPack-1C78C0?style=flat-square&logo=WebPack&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/> -->
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white"/>
+<!--     <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/> -->
+<!--     <img src="https://img.shields.io/badge/-OVH%20Cloud-123F6D?style=flat-square&logo=OVH&logoColor=white"/> -->
+<!--     <img src="https://img.shields.io/badge/-Codacy-222F29?style=flat-square&logo=Codacy&logoColor=white"/> -->
+  </p>
+</p>
+<p>
+ Get in touch:<br/>
+  <a href="mailto: mehdiadq@gmail.com?subject=[GitHub]"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://instagram.com/mehdieidi.q"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<!--   <a href="https://twitch.tv/mrstandu33"><img src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/></a> -->
+  <a href="https://linkedin.com/in/mehdieidi"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/goto_mehdi"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
-<!-- <hr>
-<h2 align="center">🔥 Skills, Languages, Frameworks, Tools I have worked with 🔥</h2>
 <br>
-<p align="center">
-  <code><img title="Golang" height="25" src="https://github.com/MehdiEidi/MehdiEidi/blob/main/g.png"></code>
-  <code><img title="C" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></code>
-  <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
-  <code><img title="C#" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cSharp.svg"></code>
-  <code><img title="Git" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/git-original.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/postgresql.svg"></code>
-  <code><img title="Javascript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
-  <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
-  <code><img title="SASS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/sass.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/visualstudio.png"></code>
-  <code><img title="JSON" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/json.svg"></code>
-  <code><img title="GitHub" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg"></code>
-  <code><img title="npm" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/npm.svg"></code>
-  <code><img title="PHP" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/php.svg"></code>
-  <code><img title="Problem Solving" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/problemSolving.png"></code>
-</p>
-<hr> -->
-
-<!-- <h2 align="center">Stats</h2> -->
+<img src="https://visitor-badge.laobi.icu/badge?page_id=MehdiEidi.MehdiEidi">
 <br>
-<p align=center>
-   <img src="https://activity-graph.herokuapp.com/graph?username=MehdiEidi&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-  
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiEidi&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true&exclude_repo=museum-management-system&hide=Batchfile,html,css" />
-    </a>
-    
-<!--     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=MehdiEidi&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-   -->
-</div>
-<!--   <br><br><br><br><br><br><br><br><br> -->
-  <div align=center>
-    
-  </div>
-  <br>
- 
+<p>
+  💻 Hey, I'm Mehdi Eidi, a CSE student and a Go software engineer.<br>
+  💻 Studying for a Bachelor's Degree in Urmia University Computer Engineering Departmenty<br>
+  💻 I graduated from Andisheh Borna High School & Iran Language Institute<br>
+  📫 Email: <a href="mailto: mehdiadq@gmail.com">mehdiadq@gmail.com</a>
 </p>
-
-<hr>
-</h4>
