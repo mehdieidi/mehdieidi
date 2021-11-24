@@ -16,10 +16,12 @@
       <img src="https://img.shields.io/badge/-787574?style=flat-square&logo=C&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Java-f89820?style=flat-square&logo=Java&logoColor=black"/>
       <img src="https://img.shields.io/badge/-Javascript-f0db4f?style=flat-square&logo=Javascript&logoColor=323330"/>
+      <img src="https://img.shields.io/badge/-Assembly-E34F26?style=flat-square&logo=Assembly&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Arduino-23A9F2?style=flat-square&logo=Arduino&logoColor=white"/>
       <img src="https://img.shields.io/badge/-JSON-4C5459?style=flat-square&logo=JSON&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&logoColor=white"/>
       <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
       <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&logoColor=white"/>
       <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
       <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
    </p>
