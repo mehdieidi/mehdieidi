@@ -40,6 +40,7 @@
 <br>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=MehdiEidi.MehdiEidi">
 <br>
+</p>
 <p>
   💻 Hey, I'm Mehdi Eidi, a CSE student and a Go software engineer.<br>
   💻 Studying for a Bachelor's Degree in Urmia University Computer Engineering Departmenty<br>
