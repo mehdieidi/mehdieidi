@@ -17,6 +17,7 @@
       <img src="https://img.shields.io/badge/-Java-f89820?style=flat-square&logo=Java&logoColor=black"/>
       <img src="https://img.shields.io/badge/-Javascript-f0db4f?style=flat-square&logo=Javascript&logoColor=323330"/>
       <img src="https://img.shields.io/badge/-Assembly-E34F26?style=flat-square&logo=Assembly&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-VHDL-4C5459?style=flat-square&logo=VHDL&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Arduino-23A9F2?style=flat-square&logo=Arduino&logoColor=white"/>
       <img src="https://img.shields.io/badge/-JSON-4C5459?style=flat-square&logo=JSON&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&logoColor=white"/>
