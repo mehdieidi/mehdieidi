@@ -5,12 +5,12 @@
       Tech Stack:<br>
       <img src="https://img.shields.io/badge/-Go-29BEB0?style=flat-square&logo=Go&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Linux-f0db4f?style=flat-square&logo=Linux&logoColor=black"/>
+      <img src="https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-vscode-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Docker-1C78C0?style=flat-square&logo=Docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-vscode-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
       <img src="https://img.shields.io/badge/-PostgreSQL-1C78C0?style=flat-square&logo=Postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Algorithms-1C78C0?style=flat-square&logo=Algorithms&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Data%20Structures-E4405F?style=flat-square&logo=DataStructures&logoColor=white"/>
       <img src="https://img.shields.io/badge/-787574?style=flat-square&logo=C&logoColor=white"/>
