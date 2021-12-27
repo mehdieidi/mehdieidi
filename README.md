@@ -41,10 +41,10 @@
    <a href="mailto: mehdiadq@gmail.com?subject=[GitHub]">
       <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/>
    </a>
-   <a href="https://twitter.com/goto_mehdi">
+<!--    <a href="https://twitter.com/goto_mehdi">
       <img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
-   </a>
-</p>
+   </a> -->
+   </p>
 </p>
 
 
