@@ -46,7 +46,7 @@
 
 <br>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=MehdiEidi.MehdiEidi">
+<!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=MehdiEidi.MehdiEidi"> -->
 
 <br>
 
