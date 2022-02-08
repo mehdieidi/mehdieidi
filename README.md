@@ -56,7 +56,7 @@
 <br>
 
 <p>
-   💻 I'm Mehdi Eidi, a CSE Student and a Go Developer.<br>
+   💻 I'm Mehdi Eidi, a software engineering student and a Go Developer.<br>
    💻 Studying for a Bachelor's Degree in Urmia University Computer Engineering Department.<br>
    💻 I Graduated from Andisheh Borna High School & Iran Language Institute.<br>
    📫 Email: <a href="mailto: mehdiadq@gmail.com">mehdiadq@gmail.com</a>
