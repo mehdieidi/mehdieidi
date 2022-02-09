@@ -56,8 +56,8 @@
 <br>
 
 <p>
-   💻 I'm Mehdi Eidi, a software engineering student and a Go Developer.<br>
-   💻 Studying for a Bachelor's Degree in Urmia University Computer Engineering Department.<br>
-   💻 I Graduated from Andisheh Borna High School & Iran Language Institute.<br>
+   💻 I'm Mehdi Eidi, a software engineering student and a Go developer.<br>
+   💻 Studying for a bachelor's degree in Urmia University computer engineering department.<br>
+   💻 I graduated from Andisheh Borna high school & Iran Language Institute.<br>
    📫 Email: <a href="mailto: mehdiadq@gmail.com">mehdiadq@gmail.com</a>
 </p>
