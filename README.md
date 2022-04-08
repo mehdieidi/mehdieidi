@@ -57,7 +57,7 @@
 
 <p>
    💻 I'm Mehdi Eidi, a software engineering student and a Go developer.<br>
+   💻 Interested in distributed systems, network, and systems programming.<br>
    💻 Studying for a bachelor's degree in Urmia University computer engineering department.<br>
-   💻 I graduated from Andisheh Borna high school & Iran Language Institute.<br>
    📫 Email: <a href="mailto: mehdiadq@gmail.com">mehdiadq@gmail.com</a>
 </p>
