@@ -2,7 +2,7 @@
    <img width=325 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiEidi&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true&exclude_repo=museum-management-system&hide=Batchfile,html,css" />
 
    <p>
-      Tech Stack:<br>
+      Tech Stack:<br/>
       <img src="https://img.shields.io/badge/-Go-29BEB0?style=flat-square&logo=Go&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Linux-f0db4f?style=flat-square&logo=Linux&logoColor=black"/>
       <img src="https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white"/>
@@ -29,36 +29,25 @@
    </p>
    
    <p>
-   Get in touch:<br/>
-   <a href="https://linkedin.com/in/mehdieidi">
-      <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>
-   <!-- <a href="https://instagram.com/mehdieidi.q">
-      <img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
-   </a> -->
-   <a href="https://t.me/mehdi_eidi">
-      <img src="https://img.shields.io/badge/telegram-1DA1F2.svg?style=for-the-badge&logo=telegram&logoColor=ffffff"/>
-   </a>
-   <a href="mailto: mehdiadq@gmail.com?subject=[GitHub]">
-      <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/>
-   </a>
-<!--    <a href="https://twitter.com/goto_mehdi">
-      <img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
-   </a> -->
+      Get in touch:<br/>
+      <a href="https://linkedin.com/in/mehdieidi">
+         <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      </a>
+       <a href="mailto: mehdiadq@gmail.com?subject=[GitHub]">
+         <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/>
+      </a>
+      <a href="https://t.me/mehdi_eidi">
+         <img src="https://img.shields.io/badge/telegram-1DA1F2.svg?style=for-the-badge&logo=telegram&logoColor=ffffff"/>
+      </a>
    </p>
 </p>
 
-
-
-<br>
-
-<!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=MehdiEidi.MehdiEidi"> -->
-
-<br>
+<br/>
+<br/>
 
 <p>
-   💻 I'm Mehdi Eidi, a junior software engineer.<br>
-   💻 Interested in distributed systems and software architecture.<br>
-   💻 Studying for a bachelor's degree in Urmia University computer engineering department.<br>
-   📫 Email: <a href="mailto: mehdiadq@gmail.com">mehdiadq@gmail.com</a>
+   - I'm Mehdi Eidi, a junior software engineer.<br>
+   - Interested in distributed systems, software architecture, and backend development.<br>
+   - Software Engineering student at Urmia University.<br>
+   - Email: <a href="mailto: mehdiadq@gmail.com">mehdiadq@gmail.com</a>
 </p>
