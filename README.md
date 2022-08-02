@@ -8,8 +8,9 @@
       <img src="https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white"/>
       <img src="https://img.shields.io/badge/-vscode-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Docker-1C78C0?style=flat-square&logo=Docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Redis-D82C20?style=flat-square&logo=Redis&logoColor=white"/>
       <img src="https://img.shields.io/badge/-PostgreSQL-1C78C0?style=flat-square&logo=Postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Algorithms-1C78C0?style=flat-square&logo=Algorithms&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Data%20Structures-E4405F?style=flat-square&logo=DataStructures&logoColor=white"/>
@@ -32,9 +33,9 @@
    <a href="https://linkedin.com/in/mehdieidi">
       <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
-   <a href="https://instagram.com/mehdieidi.q">
+   <!-- <a href="https://instagram.com/mehdieidi.q">
       <img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
-   </a>
+   </a> -->
    <a href="https://t.me/mehdi_eidi">
       <img src="https://img.shields.io/badge/telegram-1DA1F2.svg?style=for-the-badge&logo=telegram&logoColor=ffffff"/>
    </a>
@@ -56,8 +57,8 @@
 <br>
 
 <p>
-   💻 I'm Mehdi Eidi, a software engineering student and a Go developer.<br>
-   💻 Interested in distributed systems, network, and systems programming.<br>
+   💻 I'm Mehdi Eidi, a junior software engineer.<br>
+   💻 Interested in distributed systems and software architecture.<br>
    💻 Studying for a bachelor's degree in Urmia University computer engineering department.<br>
    📫 Email: <a href="mailto: mehdiadq@gmail.com">mehdiadq@gmail.com</a>
 </p>
