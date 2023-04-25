@@ -34,9 +34,9 @@
 <br/>
 <br/>
 
-<p>
+<!-- <p>
    - I'm Mehdi Eidi, a software engineer.<br>
    - Interested in distributed systems, software architecture, and server-side development.<br>
    - Studying Computer Science at Urmia University.<br>
    - Email: <a href="mailto: mehdiadq@gmail.com">mehdiadq@gmail.com</a>
-</p>
+</p> -->
