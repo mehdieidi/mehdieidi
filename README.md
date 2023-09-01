@@ -42,5 +42,5 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white)
 ## Stats:
-![](https://github-readme-stats.vercel.app/api?username=mehdieidi&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=mehdieidi&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true) -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdieidi&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&exclude_repo=museum-management-system&hide=Batchfile,html,css)
