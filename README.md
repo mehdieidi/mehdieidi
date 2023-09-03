@@ -5,7 +5,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=flat-square)](https://medium.com/@mehdieidi) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=flat-square)](https://twitter.com/mehdeidi) 
 
-## Tech Stack:
+<!-- ## Tech Stack:
 ![JSON](https://img.shields.io/badge/-JSON-4C5459?style=flat-square&logo=JSON&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
@@ -41,6 +41,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white)
-## Stats:
+## Stats: -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=mehdieidi&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true) -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdieidi&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&exclude_repo=museum-management-system&hide=Batchfile,html,css)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdieidi&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&exclude_repo=museum-management-system&hide=Batchfile,html,css) -->
