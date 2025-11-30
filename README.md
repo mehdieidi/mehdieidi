@@ -1,6 +1,6 @@
 
 <!-- ## Socials: -->
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](https://mehdieidi.github.io)
+<!-- [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](https://mehdieidi.github.io) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/mehdieidi) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=flat-square)](https://medium.com/@mehdieidi)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Mehdi-Eidi)
